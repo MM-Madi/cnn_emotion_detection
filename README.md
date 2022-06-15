@@ -6,7 +6,7 @@ For the project the Crowd Sourced Emotional Multimodal Actors Dataset (CREMA-D) 
 
 Emotions have been known to affect human speech resulting with differentiated patterns in the sound wave. An audio can be transformed into a Spectrogram image which is a visual representation of the spectrum of frequencies of a signal as it varies with time. This enables for the use of image based deep learning models to classify emotions from voice recordings.
 
-The repository includes the following:
+<ins>The repository includes the following:</ins>
 * data_exploration.ipynb - exploration of audio processing and data extraction techniques
 * data_processing.ipynb - processing of the CREMA-D dataset into spectograms
 * final_model.ipynb - model development, training and evaluation
