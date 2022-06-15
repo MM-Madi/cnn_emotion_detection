@@ -11,3 +11,5 @@ Emotions have been known to affect human speech resulting with differentiated pa
 * **data_processing.ipynb** - processing of the CREMA-D dataset into spectograms
 * **final_model.ipynb** - model development, training and evaluation
 * **web_app** - a folder that contains the web_app script using a saved model (cnn_final.h5) to predict emotion from a live audio recording
+
+<img width="960" alt="emotion_spectograms" src="https://user-images.githubusercontent.com/99167342/173906961-37d1e39d-ef34-4e47-b6ef-c36fec1480a0.png">
