@@ -1,6 +1,6 @@
 # A Deep Learning Model for Emotion Detection in Human Voice
 
-For my final project as a data science student I choose the topic of emotion recognition in human voice. I developed a **Convolutional Neural Network architecture** that classifies emotions in **Spectograms** produces from labeled audio recordings. I also developed a streamlit based **web application** that records live audio from the user, predicts the underline emotion and displays an emotion-specific response back to the user.
+For my final project as a data science student I choose the topic of emotion recognition in human voice. I developed a **Convolutional Neural Network architecture** that classifies emotions in **Spectograms** produced from labeled audio recordings. I also developed a streamlit based **web application** that records live audio from the user, predicts the underline emotion and displays an emotion-specific response back to the user.
 
 <img width="960" alt="emotion_spectograms" src="https://user-images.githubusercontent.com/99167342/173906961-37d1e39d-ef34-4e47-b6ef-c36fec1480a0.png">
 
